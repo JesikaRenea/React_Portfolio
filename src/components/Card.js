@@ -10,7 +10,7 @@ const Card = props => {
                         </div>
                         <div class="card-content">
                             <span class="card-title activator grey-text text-darken-4">Title<i class="material-icons right">...</i></span>
-                            <p><a href="https://JessicaHayesDesign.com" target="_blank">View Project</a></p>
+                            <p><a href="#" target="_blank">View Project</a></p>
                         </div>
                         <div class="card-reveal">
                             <span class="card-title grey-text text-darken-4">Title<i
