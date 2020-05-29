@@ -3,7 +3,6 @@ import './App.css';
 import { BrowserRouter as Router, Route, Link } from 'react-router-dom';
 import 'materialize-css';
 // import { Button, Card, Row, Col } from 'react-materialize';
-import Home from './components/Home';
 import About from './components/About';
 import Contact from './components/Contact';
 import FsPortfolio from './components/FsPortfolio';
@@ -21,7 +20,7 @@ function App() {
         <Header />
         <Navbar />
         <main>
-          <Route exact path="/" component={Home} />
+          <Route exact path="/" component={About} />
           <Route exact path="/about" component={About} />
           <Route exact path="/contact" component={Contact} />
           <Route exact path="/fs-portfolio" component={FsPortfolio} />

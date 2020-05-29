@@ -3,6 +3,10 @@ import React from 'react';
 const Contact = props => {
     return (
         <div className="wrapper">
+            
+            <h3>Contact</h3>
+            <hr/>
+
 
             <form>
                 <div class="input-field col s12">

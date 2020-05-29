@@ -1,12 +1,16 @@
 import React from 'react';
+import ucfLogo from "../assets/images/ucfLogo.jpg"
 
 const About = props => {
     return (
         <div className="wrapper">
+
+            <h3>About</h3>
+            <hr/>
+
             <div class="media">
-                <img class="align-self-start mr-3" src="../assets/images/ucf logo.jpg" alt="UCF Logo" />
+                <img class="align-self-start mr-3" src={ucfLogo} alt="UCF Logo" />
                 <div class="media-body">
-                    <h5 class="mt-0">About</h5>
                     <p>
                         UCF graduate, with a Certificate in Full Stack Web Development and a B.S.B.A in Finance. I have designed, built, and maintained multiple WordPress and e-Commerce websites, have experience with Adobe Platforms: Illustrator, Photoshop, and InDesign, manage multiple Social Media Business Accounts, and am experienced in SEO and WordPress plug-in enhancements.
                   <br /><br />

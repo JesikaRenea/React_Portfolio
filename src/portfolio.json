@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "Project 1: Local Wire",
+        "image": "../assets/images/LocalWire_Project7.png",
+        "href": "https://zepcap.github.io/Project_One/",
+        "desc": "Local Wire was our first Group Project in the UCF Coding Bootcamp. In this Project, we demonstrated our basic skills of HTML, CSS, JS, API's, and AJAX calls."
+    },
+    {
+        "id": 2,
+        "title": "Project 2: Movie A-Lister",
+        "image": "../assets/images/Project2_MovieApp.png",
+        "href": "https://moviealister.herokuapp.com/",
+        "desc": "Movie A-Lister was our second Group Project in the UCF Coding Bootcamp. In this Project, we demonstrated our skills using MySql and Sequelize Database structure. This project implemented the MVC model, CRUD operations, and Handlebars as our view component. "
+    },    {
+        "id": 1,
+        "title": "Random Password Generator",
+        "image": "../assets/images/RPG_Project3.png",
+        "href": "https://jesikarenea.github.io/Password_Generator/",
+        "desc": "Random Password Generator was our first assignment in the UCF Coding Bootcamp Course"
+    }
+
+]
