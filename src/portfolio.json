@@ -2,22 +2,58 @@
     {
         "id": 1,
         "title": "Project 1: Local Wire",
-        "image": "../assets/images/LocalWire_Project7.png",
+        "image": "https://jesikarenea.github.io/Responsive_Portfolio/images/LocalWire_Project7.png",
         "href": "https://zepcap.github.io/Project_One/",
         "desc": "Local Wire was our first Group Project in the UCF Coding Bootcamp. In this Project, we demonstrated our basic skills of HTML, CSS, JS, API's, and AJAX calls."
     },
     {
         "id": 2,
         "title": "Project 2: Movie A-Lister",
-        "image": "../assets/images/Project2_MovieApp.png",
+        "image": "https://jesikarenea.github.io/Responsive_Portfolio/images/SS_Dashboard.png",
         "href": "https://moviealister.herokuapp.com/",
         "desc": "Movie A-Lister was our second Group Project in the UCF Coding Bootcamp. In this Project, we demonstrated our skills using MySql and Sequelize Database structure. This project implemented the MVC model, CRUD operations, and Handlebars as our view component. "
-    },    {
-        "id": 1,
+    },    
+    {
+        "id": 3,
         "title": "Random Password Generator",
-        "image": "../assets/images/RPG_Project3.png",
+        "image": "https://jesikarenea.github.io/Responsive_Portfolio/images/RPG_Project3.png",
         "href": "https://jesikarenea.github.io/Password_Generator/",
-        "desc": "Random Password Generator was our first assignment in the UCF Coding Bootcamp Course"
+        "desc": "Random Password Generator was our third assignment in the UCF Coding Bootcamp Course"
+    },
+    {
+        "id": 4,
+        "title": "UCF Coding Quiz",
+        "image": "https://jesikarenea.github.io/Responsive_Portfolio/images/CodeQuiz_Project4.png",
+        "href": "https://jesikarenea.github.io/Code_Quiz/",
+        "desc": "UCF Coding Quiz was our fourth assignment in the UCF Coding Bootcamp Course"
+    },
+    {
+        "id": 5,
+        "title": "Work Day Scheduler",
+        "image": "https://jesikarenea.github.io/Responsive_Portfolio/images/WDS_Proj5.png",
+        "href": "#",
+        "desc": "Work Day Scheduler was our fifth assignment in the UCF Coding Bootcamp Course"
+    },
+    {
+        "id": 6,
+        "title": "Weather Dashboard",
+        "image": "https://jesikarenea.github.io/Responsive_Portfolio/images/Weather_Project6.png",
+        "href": "https://jesikarenea.github.io/Weather-Dashboard/",
+        "desc": "Random Password Generator was our sixth assignment in the UCF Coding Bootcamp Course"
+    },
+    {
+        "id": 7,
+        "title": "Note Taker Application",
+        "image": "https://jesikarenea.github.io/Responsive_Portfolio/images/NoteTaker.png",
+        "href": "https://arcane-reef-90778.herokuapp.com/notes",
+        "desc": "Note Taker App was our homework assignment for Week 9 in the UCF Coding Bootcamp Course. This was our first assignment deployed to Heroku"
+    },
+    {
+        "id": 8,
+        "title": "Eat Da Burger Application",
+        "image": "https://jesikarenea.github.io/Responsive_Portfolio/images/EatDaBurger_Week13.png",
+        "href": "https://strawberry-cobbler-42759.herokuapp.com/burgers",
+        "desc": "Eat Da Burger Application was our homework assignment for Week 13 in the UCF Coding Bootcamp Course. This project demonstrated our experience with MySql, dynamically adding date to our DB, basic CRUD operations, and deployment to Heroku."
     }
 
 ]

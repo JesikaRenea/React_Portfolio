@@ -9,17 +9,27 @@ class FsPortfolio extends Component {
     };
     render() {
 
-    return (
-        <div className="wrapper">
-            
-            <h3>Portfolio</h3>
-            <hr/>
+        return (
+            <div className="wrapper">
 
-            <Card />
-            <Card />
+                <h3>Portfolio</h3>
+                <hr />
+                <div className="row">
+                {this.state.portfolio.map(portfolio => (
+                    <Card 
+                    title={portfolio.title}
+                    image={portfolio.image}
+                    href={portfolio.href}
+                    desc={portfolio.desc}
+                    />
+
+                )
+                )
+                }
 
             </div>
-    );
+            </div>
+        );
     }
 };
 
