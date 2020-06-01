@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/React_Portfolio/static/css/main.1f451966.chunk.css",
-    "main.js": "/React_Portfolio/static/js/main.98f2e0fe.chunk.js",
-    "main.js.map": "/React_Portfolio/static/js/main.98f2e0fe.chunk.js.map",
-    "runtime-main.js": "/React_Portfolio/static/js/runtime-main.f89238f9.js",
-    "runtime-main.js.map": "/React_Portfolio/static/js/runtime-main.f89238f9.js.map",
-    "static/js/2.5b25e72b.chunk.js": "/React_Portfolio/static/js/2.5b25e72b.chunk.js",
-    "static/js/2.5b25e72b.chunk.js.map": "/React_Portfolio/static/js/2.5b25e72b.chunk.js.map",
-    "index.html": "/React_Portfolio/index.html",
-    "precache-manifest.314466ff7e5c128b0b7a9af8e39c507a.js": "/React_Portfolio/precache-manifest.314466ff7e5c128b0b7a9af8e39c507a.js",
-    "service-worker.js": "/React_Portfolio/service-worker.js",
-    "static/css/main.1f451966.chunk.css.map": "/React_Portfolio/static/css/main.1f451966.chunk.css.map",
-    "static/js/2.5b25e72b.chunk.js.LICENSE.txt": "/React_Portfolio/static/js/2.5b25e72b.chunk.js.LICENSE.txt",
-    "static/media/LocalWire_Project7.png": "/React_Portfolio/static/media/LocalWire_Project7.affcaef5.png",
-    "static/media/ucfLogo.jpg": "/React_Portfolio/static/media/ucfLogo.5f3a021b.jpg"
+    "main.css": "/React_Portfolio/about/static/css/main.1f451966.chunk.css",
+    "main.js": "/React_Portfolio/about/static/js/main.f59aa90c.chunk.js",
+    "main.js.map": "/React_Portfolio/about/static/js/main.f59aa90c.chunk.js.map",
+    "runtime-main.js": "/React_Portfolio/about/static/js/runtime-main.2099e6c5.js",
+    "runtime-main.js.map": "/React_Portfolio/about/static/js/runtime-main.2099e6c5.js.map",
+    "static/js/2.c41b0814.chunk.js": "/React_Portfolio/about/static/js/2.c41b0814.chunk.js",
+    "static/js/2.c41b0814.chunk.js.map": "/React_Portfolio/about/static/js/2.c41b0814.chunk.js.map",
+    "index.html": "/React_Portfolio/about/index.html",
+    "precache-manifest.9dca117e4ab32cc1c6b08ac2e8e2af6e.js": "/React_Portfolio/about/precache-manifest.9dca117e4ab32cc1c6b08ac2e8e2af6e.js",
+    "service-worker.js": "/React_Portfolio/about/service-worker.js",
+    "static/css/main.1f451966.chunk.css.map": "/React_Portfolio/about/static/css/main.1f451966.chunk.css.map",
+    "static/js/2.c41b0814.chunk.js.LICENSE.txt": "/React_Portfolio/about/static/js/2.c41b0814.chunk.js.LICENSE.txt",
+    "static/media/LocalWire_Project7.png": "/React_Portfolio/about/static/media/LocalWire_Project7.affcaef5.png",
+    "static/media/ucfLogo.jpg": "/React_Portfolio/about/static/media/ucfLogo.5f3a021b.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f89238f9.js",
-    "static/js/2.5b25e72b.chunk.js",
+    "static/js/runtime-main.2099e6c5.js",
+    "static/js/2.c41b0814.chunk.js",
     "static/css/main.1f451966.chunk.css",
-    "static/js/main.98f2e0fe.chunk.js"
+    "static/js/main.f59aa90c.chunk.js"
   ]
 }
