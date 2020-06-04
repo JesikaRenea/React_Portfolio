@@ -11,7 +11,7 @@ body {
 }
 
 .jumbotron {
-  background-color: #ffb48f;
+  background-color: #ee6e73;
   text-align: center;
   padding: 2rem 1rem;
   color: white;
@@ -20,7 +20,7 @@ body {
 }
 
 nav {
-  background-color: #ffb48f;
+  background-color: #ee6e73;
 }
 
 #nav-mobile {
@@ -34,11 +34,11 @@ nav {
 .page-footer {
   padding-top: 20px;
   color: #fff;
-  background-color: #ffb48f;
+  background-color: #ee6e73;
 }
 
 h1, h3 {
-  color: #ffb48f;
+  color: #ee6e73;
   margin: 20px;
 }
 
@@ -75,22 +75,22 @@ main {
 
 .fa-facebook {
   background: white;
-  color:#ffb48f;
+  color:#ee6e73;
 }
 
 .fa-instagram {
   background: white;
-  color:#ffb48f;
+  color:#ee6e73;
 }
 
 .fa-linkedin {
   background: white;
-  color:#ffb48f;
+  color:#ee6e73;
 }
 
 .fa-github {
   background: white;
-  color:#ffb48f;
+  color:#ee6e73;
 }
 
 .wrapper {
