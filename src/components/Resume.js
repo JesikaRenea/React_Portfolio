@@ -7,7 +7,9 @@ const Resume = props => {
 
             <h3>Resume</h3>
             <hr/>
-                <img class="resume" src={resume} alt="UCF Logo" />
+            <div class="resume-div">
+                <img class="resume" src={resume} alt="Resume" />
+                </div>
         </div>
 
     );

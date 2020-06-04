@@ -114,6 +114,10 @@ hr {
   margin: 0px;
 }
 
-.resume {
+/* .resume {
   width: 100%;
+} */
+
+.resume-div {
+  text-align: center;
 }
