@@ -1,6 +1,9 @@
 body {
   color: gray;
   font-size: 14px;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
 }
 
 .App-link {
@@ -8,7 +11,7 @@ body {
 }
 
 .jumbotron {
-  background-color: #ee6e73;
+  background-color: #ffb48f;
   text-align: center;
   padding: 2rem 1rem;
   color: white;
@@ -17,7 +20,7 @@ body {
 }
 
 nav {
-  background-color: #ee6e73;
+  background-color: #ffb48f;
 }
 
 #nav-mobile {
@@ -31,19 +34,14 @@ nav {
 .page-footer {
   padding-top: 20px;
   color: #fff;
-  background-color: #ee6e73;
+  background-color: #ffb48f;
 }
 
 h1, h3 {
-  color: #ee6e73;
+  color: #ffb48f;
   margin: 20px;
 }
 
-body {
-  display: flex;
-  min-height: 100vh;
-  flex-direction: column;
-}
 
 main {
   flex: 1 0 auto;
@@ -77,22 +75,22 @@ main {
 
 .fa-facebook {
   background: white;
-  color:#ee6e73;
+  color:#ffb48f;
 }
 
 .fa-instagram {
   background: white;
-  color:#ee6e73;
+  color:#ffb48f;
 }
 
 .fa-linkedin {
   background: white;
-  color:#ee6e73;
+  color:#ffb48f;
 }
 
 .fa-github {
   background: white;
-  color:#ee6e73;
+  color:#ffb48f;
 }
 
 .wrapper {
@@ -114,4 +112,8 @@ main {
 
 hr {
   margin: 0px;
+}
+
+.resume {
+  width: 100%;
 }
