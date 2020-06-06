@@ -1,25 +1,30 @@
 {
   "files": {
-    "main.css": "/React_Portfolio/static/css/main.57f4ab03.chunk.css",
-    "main.js": "/React_Portfolio/static/js/main.d303bcfb.chunk.js",
-    "main.js.map": "/React_Portfolio/static/js/main.d303bcfb.chunk.js.map",
+    "main.css": "/React_Portfolio/static/css/main.8f59621a.chunk.css",
+    "main.js": "/React_Portfolio/static/js/main.d5a3abf1.chunk.js",
+    "main.js.map": "/React_Portfolio/static/js/main.d5a3abf1.chunk.js.map",
     "runtime-main.js": "/React_Portfolio/static/js/runtime-main.f89238f9.js",
     "runtime-main.js.map": "/React_Portfolio/static/js/runtime-main.f89238f9.js.map",
-    "static/js/2.883d37de.chunk.js": "/React_Portfolio/static/js/2.883d37de.chunk.js",
-    "static/js/2.883d37de.chunk.js.map": "/React_Portfolio/static/js/2.883d37de.chunk.js.map",
+    "static/js/2.c3ce4f41.chunk.js": "/React_Portfolio/static/js/2.c3ce4f41.chunk.js",
+    "static/js/2.c3ce4f41.chunk.js.map": "/React_Portfolio/static/js/2.c3ce4f41.chunk.js.map",
     "index.html": "/React_Portfolio/index.html",
-    "precache-manifest.5c58354096f2cf188ad6e4aacfbc2d5b.js": "/React_Portfolio/precache-manifest.5c58354096f2cf188ad6e4aacfbc2d5b.js",
+    "precache-manifest.6205389f81e678c3289daa197c18e997.js": "/React_Portfolio/precache-manifest.6205389f81e678c3289daa197c18e997.js",
     "service-worker.js": "/React_Portfolio/service-worker.js",
-    "static/css/main.57f4ab03.chunk.css.map": "/React_Portfolio/static/css/main.57f4ab03.chunk.css.map",
-    "static/js/2.883d37de.chunk.js.LICENSE.txt": "/React_Portfolio/static/js/2.883d37de.chunk.js.LICENSE.txt",
+    "static/css/main.8f59621a.chunk.css.map": "/React_Portfolio/static/css/main.8f59621a.chunk.css.map",
+    "static/js/2.c3ce4f41.chunk.js.LICENSE.txt": "/React_Portfolio/static/js/2.c3ce4f41.chunk.js.LICENSE.txt",
     "static/media/LocalWire_Project7.png": "/React_Portfolio/static/media/LocalWire_Project7.affcaef5.png",
     "static/media/Resume.png": "/React_Portfolio/static/media/Resume.cf7f8031.png",
+    "static/media/mongoDBSquare.PNG": "/React_Portfolio/static/media/mongoDBSquare.6ecccf7a.PNG",
+    "static/media/mySql.PNG": "/React_Portfolio/static/media/mySql.bf029ddf.PNG",
+    "static/media/node.PNG": "/React_Portfolio/static/media/node.7a70919b.PNG",
+    "static/media/node2.PNG": "/React_Portfolio/static/media/node2.6311c0d4.PNG",
+    "static/media/react.PNG": "/React_Portfolio/static/media/react.24e209ea.PNG",
     "static/media/ucfLogo.jpg": "/React_Portfolio/static/media/ucfLogo.5f3a021b.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.f89238f9.js",
-    "static/js/2.883d37de.chunk.js",
-    "static/css/main.57f4ab03.chunk.css",
-    "static/js/main.d303bcfb.chunk.js"
+    "static/js/2.c3ce4f41.chunk.js",
+    "static/css/main.8f59621a.chunk.css",
+    "static/js/main.d5a3abf1.chunk.js"
   ]
 }
