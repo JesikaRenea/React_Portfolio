@@ -1,5 +1,5 @@
 body {
-  color: gray;
+  color: black;
   font-size: 14px;
   display: flex;
   min-height: 100vh;
@@ -11,16 +11,16 @@ body {
 }
 
 .jumbotron {
-  background-color: #ee6e73;
+  background-color: #61DBFB;
   text-align: center;
   padding: 2rem 1rem;
-  color: white;
+  color:white;
   margin-bottom: 1rem;
   border-radius: 0px;
 }
 
 nav {
-  background-color: #ee6e73;
+  background-color: #61DBFB;
 }
 
 #nav-mobile {
@@ -34,11 +34,11 @@ nav {
 .page-footer {
   padding-top: 20px;
   color: #fff;
-  background-color: #ee6e73;
+  background-color: #61DBFB;
 }
 
 h1, h3 {
-  color: #ee6e73;
+  color: #61DBFB;
   margin: 20px;
 }
 
@@ -75,26 +75,26 @@ main {
 
 .fa-facebook {
   background: white;
-  color:#ee6e73;
+  color:#61DBFB;
 }
 
 .fa-instagram {
   background: white;
-  color:#ee6e73;
+  color:#61DBFB;
 }
 
 .fa-linkedin {
   background: white;
-  color:#ee6e73;
+  color:#61DBFB;
 }
 
 .fa-github {
   background: white;
-  color:#ee6e73;
+  color:#61DBFB;
 }
 
 .wrapper {
-  border: 1px solid grey;
+  /* border: 1px solid grey; */
   margin-bottom: 1rem;
   height: 100%
 }
@@ -119,5 +119,18 @@ hr {
 } */
 
 .resume-div {
+  text-align: center;
+}
+.header-image {
+  height: 250px;
+  /* width: 250px; */
+}
+
+.image-container {
+  text-align: center;
+  width: 100%;
+}
+
+.image-row {
   text-align: center;
 }

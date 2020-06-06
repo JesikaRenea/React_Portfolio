@@ -10,6 +10,7 @@ import Resume from './components/Resume';
 import Footer from './components/Footer/'
 import Navbar from './components/Navbar';
 import Header from './components/Header';
+import HeaderImages from './components/HeaderImages';
 
 
 function App() {
@@ -18,6 +19,7 @@ function App() {
 
         <Router>
           <Header />
+          <HeaderImages />
           <div className="container">
           <Navbar />
           <Switch>
