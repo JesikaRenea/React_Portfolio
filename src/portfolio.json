@@ -16,8 +16,8 @@
     {
         "id": 13,
         "title": "Project 3: In-The-Know: Learning App",
-        "image": "https://i.gyazo.com/fcaa55b4645322fd93103b9bb75ef7f1.png",
-        "href": "#",
+        "image": "https://i.gyazo.com/c62ceacb96698c30e8281acc60fc038f.png",
+        "href": "https://in-the-know-for-you.herokuapp.com/",
         "desc": "In-The-Know was our final Project in the UCF Coding Bootcamp. This app demonstrates all of our skills learned throughout our 6 month course. This is a Full-Stack MERN Application, using MongoDB, Express, React, and Node. This Application allows a User to save Categories of Skills they are interestd in learning in the future. The user can search the Web for information, articles, and tutorials, save them to a Database, and access the information when they are ready to grow their knowledge for the subject."
     },    
     {
