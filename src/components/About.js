@@ -1,5 +1,5 @@
 import React from 'react';
-import ucfLogo from "../assets/images/ucfLogo.jpg"
+import ucfPendant from "../assets/images/ucfPendant.PNG"
 
 const About = props => {
     return (
@@ -9,7 +9,7 @@ const About = props => {
             <hr/>
 
             <div class="media">
-                <img class="align-self-start mr-3" src={ucfLogo} alt="UCF Logo" />
+                <img class="align-self-start mr-3" id="ucfPendant" src={ucfPendant} alt="UCF Logo" />
                 <div class="media-body">
                     <p>
                         UCF graduate, with a Certificate in Full Stack Web Development and a B.S.B.A in Finance. I have designed, built, and maintained multiple WordPress and e-Commerce websites, have experience with Adobe Platforms: Illustrator, Photoshop, and InDesign, manage multiple Social Media Business Accounts, and am experienced in SEO and WordPress plug-in enhancements.
