@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/React_Portfolio/static/css/main.8f59621a.chunk.css",
-    "main.js": "/React_Portfolio/static/js/main.d5a3abf1.chunk.js",
-    "main.js.map": "/React_Portfolio/static/js/main.d5a3abf1.chunk.js.map",
+    "main.css": "/React_Portfolio/static/css/main.31b57d4e.chunk.css",
+    "main.js": "/React_Portfolio/static/js/main.0eff6462.chunk.js",
+    "main.js.map": "/React_Portfolio/static/js/main.0eff6462.chunk.js.map",
     "runtime-main.js": "/React_Portfolio/static/js/runtime-main.f89238f9.js",
     "runtime-main.js.map": "/React_Portfolio/static/js/runtime-main.f89238f9.js.map",
     "static/js/2.c3ce4f41.chunk.js": "/React_Portfolio/static/js/2.c3ce4f41.chunk.js",
     "static/js/2.c3ce4f41.chunk.js.map": "/React_Portfolio/static/js/2.c3ce4f41.chunk.js.map",
     "index.html": "/React_Portfolio/index.html",
-    "precache-manifest.6205389f81e678c3289daa197c18e997.js": "/React_Portfolio/precache-manifest.6205389f81e678c3289daa197c18e997.js",
+    "precache-manifest.9eef0715431b49152b706c230bafd952.js": "/React_Portfolio/precache-manifest.9eef0715431b49152b706c230bafd952.js",
     "service-worker.js": "/React_Portfolio/service-worker.js",
-    "static/css/main.8f59621a.chunk.css.map": "/React_Portfolio/static/css/main.8f59621a.chunk.css.map",
+    "static/css/main.31b57d4e.chunk.css.map": "/React_Portfolio/static/css/main.31b57d4e.chunk.css.map",
     "static/js/2.c3ce4f41.chunk.js.LICENSE.txt": "/React_Portfolio/static/js/2.c3ce4f41.chunk.js.LICENSE.txt",
     "static/media/LocalWire_Project7.png": "/React_Portfolio/static/media/LocalWire_Project7.affcaef5.png",
     "static/media/Resume.png": "/React_Portfolio/static/media/Resume.cf7f8031.png",
@@ -19,12 +19,12 @@
     "static/media/node.PNG": "/React_Portfolio/static/media/node.7a70919b.PNG",
     "static/media/node2.PNG": "/React_Portfolio/static/media/node2.6311c0d4.PNG",
     "static/media/react.PNG": "/React_Portfolio/static/media/react.24e209ea.PNG",
-    "static/media/ucfLogo.jpg": "/React_Portfolio/static/media/ucfLogo.5f3a021b.jpg"
+    "static/media/ucfPendant.PNG": "/React_Portfolio/static/media/ucfPendant.bdb727c5.PNG"
   },
   "entrypoints": [
     "static/js/runtime-main.f89238f9.js",
     "static/js/2.c3ce4f41.chunk.js",
-    "static/css/main.8f59621a.chunk.css",
-    "static/js/main.d5a3abf1.chunk.js"
+    "static/css/main.31b57d4e.chunk.css",
+    "static/js/main.0eff6462.chunk.js"
   ]
 }

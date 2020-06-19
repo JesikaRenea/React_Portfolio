@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "48ddcccde2e0ea2beb7a14c85f099fd2",
+    "revision": "d0d93373ef92cc3c6d88184175f36095",
     "url": "/React_Portfolio/index.html"
   },
   {
-    "revision": "3d6ca33e4872a0c7fbed",
-    "url": "/React_Portfolio/static/css/main.8f59621a.chunk.css"
+    "revision": "f55344c0b359ae3f6109",
+    "url": "/React_Portfolio/static/css/main.31b57d4e.chunk.css"
   },
   {
     "revision": "bcfdeda447c57294c14a",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React_Portfolio/static/js/2.c3ce4f41.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3d6ca33e4872a0c7fbed",
-    "url": "/React_Portfolio/static/js/main.d5a3abf1.chunk.js"
+    "revision": "f55344c0b359ae3f6109",
+    "url": "/React_Portfolio/static/js/main.0eff6462.chunk.js"
   },
   {
     "revision": "8248011d6a5babd44a4f",
@@ -52,7 +52,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React_Portfolio/static/media/react.24e209ea.PNG"
   },
   {
-    "revision": "5f3a021b60ba1255367e84f3d2d2ea4b",
-    "url": "/React_Portfolio/static/media/ucfLogo.5f3a021b.jpg"
+    "revision": "bdb727c55f5ec00870b2387a67be4620",
+    "url": "/React_Portfolio/static/media/ucfPendant.bdb727c5.PNG"
   }
 ]);
