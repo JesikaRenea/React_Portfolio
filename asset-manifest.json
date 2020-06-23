@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/React_Portfolio/static/css/main.31b57d4e.chunk.css",
-    "main.js": "/React_Portfolio/static/js/main.0eff6462.chunk.js",
-    "main.js.map": "/React_Portfolio/static/js/main.0eff6462.chunk.js.map",
-    "runtime-main.js": "/React_Portfolio/static/js/runtime-main.f89238f9.js",
-    "runtime-main.js.map": "/React_Portfolio/static/js/runtime-main.f89238f9.js.map",
-    "static/js/2.c3ce4f41.chunk.js": "/React_Portfolio/static/js/2.c3ce4f41.chunk.js",
-    "static/js/2.c3ce4f41.chunk.js.map": "/React_Portfolio/static/js/2.c3ce4f41.chunk.js.map",
-    "index.html": "/React_Portfolio/index.html",
-    "precache-manifest.9eef0715431b49152b706c230bafd952.js": "/React_Portfolio/precache-manifest.9eef0715431b49152b706c230bafd952.js",
-    "service-worker.js": "/React_Portfolio/service-worker.js",
-    "static/css/main.31b57d4e.chunk.css.map": "/React_Portfolio/static/css/main.31b57d4e.chunk.css.map",
-    "static/js/2.c3ce4f41.chunk.js.LICENSE.txt": "/React_Portfolio/static/js/2.c3ce4f41.chunk.js.LICENSE.txt",
-    "static/media/LocalWire_Project7.png": "/React_Portfolio/static/media/LocalWire_Project7.affcaef5.png",
-    "static/media/Resume.png": "/React_Portfolio/static/media/Resume.cf7f8031.png",
-    "static/media/mongoDBSquare.PNG": "/React_Portfolio/static/media/mongoDBSquare.6ecccf7a.PNG",
-    "static/media/mySql.PNG": "/React_Portfolio/static/media/mySql.bf029ddf.PNG",
-    "static/media/node.PNG": "/React_Portfolio/static/media/node.7a70919b.PNG",
-    "static/media/node2.PNG": "/React_Portfolio/static/media/node2.6311c0d4.PNG",
-    "static/media/react.PNG": "/React_Portfolio/static/media/react.24e209ea.PNG",
-    "static/media/ucfPendant.PNG": "/React_Portfolio/static/media/ucfPendant.bdb727c5.PNG"
+    "main.css": "/static/css/main.31b57d4e.chunk.css",
+    "main.js": "/static/js/main.b2b547df.chunk.js",
+    "main.js.map": "/static/js/main.b2b547df.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e5fc83a6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e5fc83a6.js.map",
+    "static/js/2.9d43944c.chunk.js": "/static/js/2.9d43944c.chunk.js",
+    "static/js/2.9d43944c.chunk.js.map": "/static/js/2.9d43944c.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ad04472d3ff8205087305c44ad6297ce.js": "/precache-manifest.ad04472d3ff8205087305c44ad6297ce.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.31b57d4e.chunk.css.map": "/static/css/main.31b57d4e.chunk.css.map",
+    "static/js/2.9d43944c.chunk.js.LICENSE.txt": "/static/js/2.9d43944c.chunk.js.LICENSE.txt",
+    "static/media/LocalWire_Project7.png": "/static/media/LocalWire_Project7.affcaef5.png",
+    "static/media/Resume.png": "/static/media/Resume.cf7f8031.png",
+    "static/media/mongoDBSquare.PNG": "/static/media/mongoDBSquare.6ecccf7a.PNG",
+    "static/media/mySql.PNG": "/static/media/mySql.bf029ddf.PNG",
+    "static/media/node.PNG": "/static/media/node.7a70919b.PNG",
+    "static/media/node2.PNG": "/static/media/node2.6311c0d4.PNG",
+    "static/media/react.PNG": "/static/media/react.24e209ea.PNG",
+    "static/media/ucfPendant.PNG": "/static/media/ucfPendant.bdb727c5.PNG"
   },
   "entrypoints": [
-    "static/js/runtime-main.f89238f9.js",
-    "static/js/2.c3ce4f41.chunk.js",
+    "static/js/runtime-main.e5fc83a6.js",
+    "static/js/2.9d43944c.chunk.js",
     "static/css/main.31b57d4e.chunk.css",
-    "static/js/main.0eff6462.chunk.js"
+    "static/js/main.b2b547df.chunk.js"
   ]
 }
