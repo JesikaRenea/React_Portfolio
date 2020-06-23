@@ -1,13 +1,13 @@
 {
-  "name": "reviewapp",
-  "homepage": "https://jesikarenea.github.io/React_Portfolio/",
+  "name": "portfolio",
+  "homepage": "https://jesikarenea.github.io/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
-    "gh-pages": "^3.0.0",
+    "gh-pages": "^3.1.0",
     "materialize-css": "^1.0.0-rc.2",
     "react": "^16.13.1",
     "react-bootstrap": "^1.0.1",
@@ -18,7 +18,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy":"gh-pages -d build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
